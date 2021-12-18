@@ -7,7 +7,7 @@
 
 ## Purpose
 
-Learning piano is not an easy task, being a polyphonic instrument which requires extensive practice to master. Your hands travel across the keyboard in seconds, and fumbling with flipping the sheet music at the same time causees an aspiring musician to lose their rhythm which leads to discouragement to new learners of Piano. With FlipYoSheet, we want to make the instrument learning experience easier for YOU, by using audio detection to seamlessly display and scroll through your music notes with ultimate customizability and convenience. 
+Learning piano is not an easy task, being a polyphonic instrument which requires extensive practice to master. Your hands travel across the keyboard in seconds, and fumbling with simultaneously flipping your sheet music causes an aspiring musician to lose their rhythm which leads to discouragement for new learners of Piano. With FlipYoSheet, we want to make the instrument learning experience easier for YOU, by using audio detection to seamlessly display and scroll through your music notes with ultimate customizability and convenience. 
 
 ---
 
