@@ -1,6 +1,4 @@
-# FlipYoSheet
-
-![logo](https://github.com/hargunmujral/FlipYoSheet/blob/main/logo.png)
+# FlipYoSheet ![logo](https://github.com/hargunmujral/FlipYoSheet/blob/main/smallLogo.png)
 
 *This is a public Github Repository for an Android application developed by the following team:*
 *Hargun Mujral, Alex Shao, Ada Wang*
